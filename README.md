@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **suzuka.crmnl@proton.me**
 
-- ⚡ Fun fact **I have at least learnt something, I think…**
+- ⚡ Fun fact : **I have at least learnt something, I think…**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
