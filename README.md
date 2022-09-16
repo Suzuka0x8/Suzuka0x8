@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [crmnl.club](https://crmnl.club)
 
-- 🌱 I’m currently learning **C++ and Reverse Engineering**
+- 🌱 I’m currently learning **C++, Game Hacking and Reverse Engineering**
 
 - 💬 Ask me about **react.js, JavaScript, Web Development**
 
