@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C++, Game Hacking and Reverse Engineering**
 
-- 💬 Ask me about **react.js, JavaScript, Web Development**
+- 💬 Ask me about **React.js, JavaScript**
 
 - 📫 How to reach me **suzuka.crmnl@proton.me**
 
