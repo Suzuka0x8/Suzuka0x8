@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushiadev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 
-- 🔭 I’m currently working on [Project crmml](https://github.com/Suzuka0x8/crmnl-Loader) and [Project 1.14.4.18.5.1.19](https://github.com/Suzuka0x8)
+- 🔭 I’m currently working on [Project crmnl](https://github.com/Suzuka0x8/crmnl-Loader) and [Project 1.14.4.18.5.1.19](https://github.com/Suzuka0x8)
 
 - 🌱 I’m currently learning **C/C++, x86 Assembly, Game Development, Game Hacking and Reverse Engineering**
 
