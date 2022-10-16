@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [crmnl](https://github.com/Suzuka0x8/crmnl-Loader) and [Project 0x8](https://github.com/Suzuka0x8)
 
-- 🌱 I’m currently learning **C/C++, x86 Assembly, Game Development, Game Hacking and Reverse Engineering**
+- 🌱 I’m currently learning **C/C++, Assembly Intel x86, Game Development, Game Hacking and Reverse Engineering**
 
 - 💬 Ask me about **React.js, JavaScript, C++**
 
