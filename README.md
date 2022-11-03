@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emilian Treek</h1>
-<h3 align="center">A Developer of crmnl and Owner of Project 0x8 from Germany</h3>
+<h3 align="center">Owner of Project 0x8 from Germany</h3>
 <img align="right" alt="project 0x8" width="400" src="https://cdn.discordapp.com/attachments/1012357270895603793/1028437413338566706/c.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushiadev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
