@@ -1,3 +1,5 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+
 <h1 align="center">Hi 👋, I'm Emilian Treek</h1>
 <h3 align="center">Owner of Project 0x8 from Germany</h3>
 <img align="right" alt="project 0x8" width="400" src="https://cdn.discordapp.com/attachments/1012357270895603793/1028437413338566706/c.png">
