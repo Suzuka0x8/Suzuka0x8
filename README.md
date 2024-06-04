@@ -19,7 +19,7 @@
 <h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/suzuka bash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suzuka bash" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/zxckxzz17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="suzukanakamoto" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC1q-uFbcG7KrOtUxMsR3Ezg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="suzukanakamoto" height="30" width="40" /></a>
 <a href="https://www.x.com/EmilTreek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suzukanakamoto" height="30" width="40" /></a>
 </p>
 
