@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [Project 0x8](https://github.com/Suzuka0x8)
 
-- 🌱 I’m currently learning **C/C++, Assembly Intel x86, Game Development, Game Hacking and Reverse Engineering**
+- 🌱 I’m currently learning **C/C++, Assembly Intel x86, Game Hacking and Reverse Engineering**
 
-- 💬 Ask me about **React.js, JavaScript, C++**
+- 💬 Ask me about **React.js, HTML, CSS, JavaScript, C++**
 
 - 📫 How to reach me **suzuka.crmnl@proton.me**
 
@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/suzuka bash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suzuka bash" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/suzukanakamoto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="suzukanakamoto" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/zxckxzz17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="suzukanakamoto" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
