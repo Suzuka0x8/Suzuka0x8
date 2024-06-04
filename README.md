@@ -1,7 +1,7 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
-<h1 align="center">Hi 👋</h1>
-<h3 align="center">Developer of </h3>
+<h1 align="center">CRMNL.CLUB</h1>
+<h3 align="center">Developer of crmnl.pw and crmnl.club</h3>
 <img align="right" alt="" width="400" src="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushiadev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
