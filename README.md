@@ -1,13 +1,13 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
-<h1 align="center">Hi 👋, I'm Emilian Treek</h1>
-<h3 align="center">Owner of Project 0x8 from Germany</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">Developer of </h3>
 <img align="right" alt="" width="400" src="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushiadev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 
-- 🔭 I’m currently working on [Project 0x8](https://github.com/Suzuka0x8)
+- 🔭 I’m currently working on [crmnl](https://github.com/Suzuka0x8)
 
 - 🌱 I’m currently learning **C/C++, Assembly Intel x86, Game Hacking and Reverse Engineering**
 
@@ -15,9 +15,8 @@
 
 - 📫 How to reach me **suzuka.crmnl@proton.me**
 
-- ⚡ Fun fact : **I have at least learnt something, I think…**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/suzuka bash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suzuka bash" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/zxckxzz17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="suzukanakamoto" height="30" width="40" /></a>
