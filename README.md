@@ -7,13 +7,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushiadev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 
-- 🔭 I’m currently working on [crmnl](https://github.com/Suzuka0x8)
+- I’m currently working on [crmnl](https://github.com/Suzuka0x8)
 
-- 🌱 I’m currently learning **C/C++, Assembly Intel x86, Game Hacking and Reverse Engineering**
+- I’m currently learning **C/C++, Assembly Intel x86, Game Hacking and Reverse Engineering**
 
-- 💬 Ask me about **React.js, HTML, CSS, JavaScript, C++**
+- Ask me about **React.js, HTML, CSS, JavaScript, C++**
 
-- 📫 How to reach me **suzuka.crmnl@proton.me**
+- How to reach me **suzuka.crmnl@proton.me**
 
 
 <h3 align="left">Socials:</h3>
