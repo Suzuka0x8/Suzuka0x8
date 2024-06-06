@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushiadev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 
-- I’m currently working on [skibidi](https://github.com/Suzuka0x8)
+- I’m currently working on [crmnl](https://github.com/Suzuka0x8)
 
 - I’m currently learning **C/C++, Assembly Intel x86, Game Hacking and Reverse Engineering**
 
