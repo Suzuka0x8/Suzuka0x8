@@ -49,7 +49,5 @@
 ```text
 🕑︎ Time Zone: Berlin
 ```
+<img src="https://imgur.com/8vulfWH.png" width=500 height=250/> 
 
-
-
-<img src="https://imgur.com/a/cursed-aJQimeC"/> 
