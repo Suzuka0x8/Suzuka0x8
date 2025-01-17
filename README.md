@@ -9,6 +9,9 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/user/00gwq6d07saitnigmuuv9tq37?si=4c882d40bf7349dc)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/zxcsuzuka17)
 
+### Languages
+:de: <br> :us: <br> :ru:
+
 ## Tech Stack
 
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
