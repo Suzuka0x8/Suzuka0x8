@@ -10,7 +10,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/zxcsuzuka17)
 
 ### Languages
-:de: <br> :us: <br> :ru:
+:de:  :us:  :ru:
 
 ## Tech Stack
 
