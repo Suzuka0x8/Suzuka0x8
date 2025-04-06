@@ -4,7 +4,7 @@
 - Game Development | Reverse Engineering | Game Hacking
 - IDA Pro, x64dbg, Cheat Engine, ReClass.NET, x86 Assembly
 
-<img align="right"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suzuka0x8&hide_progress=false&theme=radical) </img>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suzuka0x8&hide_progress=false&theme=radical)
 
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](x.com/kxzzcod)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://www.pinterest.com/suzukazxc/)
