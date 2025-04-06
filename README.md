@@ -5,7 +5,7 @@
 - IDA Pro, x64dbg, Cheat Engine, ReClass.NET, x86 Assembly
 
 <div style="text-align: right;">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suzuka0x8&hide_progress=false&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suzuka0x8&hideprogress=false&theme=radical)
 </div>
 
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](x.com/kxzzcod)
