@@ -54,8 +54,5 @@ German, English, Russian
 
 ---
 
-```text
-🕑︎ Time Zone: Berlin
-```
 <img src="https://imgur.com/CosUjSX.png"/> 
 
