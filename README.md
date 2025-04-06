@@ -4,7 +4,7 @@
 - Game Development | Reverse Engineering | Game Hacking
 - IDA Pro, x64dbg, Cheat Engine, ReClass.NET, x86 Assembly
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suzuka0x8&hide_progress=true&theme=synthwave)
 
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](x.com/kxzzcod)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://www.pinterest.com/suzukazxc/)
