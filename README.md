@@ -1,4 +1,4 @@
-# Working on CS2 crmnl.cheat
+# Working on crmnl
 - Student
 - 18
 - Game Development | Reverse Engineering | Game Hacking
