@@ -1,8 +1,8 @@
 # Working on crmnl
 - Student
 - 18
-- Game Development | Reverse Engineering | Game Hacking
-- IDA Pro, x64dbg, Cheat Engine, ReClass.NET, x86 Assembly
+- C++ Developer
+- low-level development & reverse engineering enthusiast
 
 
 
