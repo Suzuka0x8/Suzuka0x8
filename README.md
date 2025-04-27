@@ -3,15 +3,6 @@
 - 18
 - low-level development & reverse engineering enthusiast
 
-
-
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](x.com/kxzzcod)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/user/00gwq6d07saitnigmuuv9tq37?si=4c882d40bf7349dc)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/zxcsuzuka17)
-
-### Languages
-German, English, Russian
-
 ## Tech Stack
 
 
