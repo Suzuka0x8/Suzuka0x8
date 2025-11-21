@@ -6,7 +6,7 @@
 ## Tech Stack
 
 
-[![Tech Stack](https://skillicons.dev/icons?i=c,cpp,lua)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=c,cpp,lua,wasm)](https://skillicons.dev)
 
 
 #### Tools
